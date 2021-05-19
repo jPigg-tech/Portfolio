@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Jeff Pigg',
-  subtitle: '',
+  subtitle: 'Software Developer',
   cta: '',
 };
 
@@ -28,8 +28,8 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'Project1.png',
+    title: 'KnowCal',
     info: '',
     info2: '',
     url: 'https://github.com/jPigg-tech/KnowCal.git',
@@ -37,8 +37,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'Project2.png',
+    title: 'Movie Library',
     info: '',
     info2: '',
     url: '',
@@ -46,8 +46,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
+    img: 'project3.jpg',
+    title: 'Video Game Data',
     info: '',
     info2: '',
     url: '',
