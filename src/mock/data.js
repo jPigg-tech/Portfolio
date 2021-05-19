@@ -41,8 +41,8 @@ export const projectsData = [
     title: 'Movie Library',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://github.com/kyledobash/Movie_Library_Git_KD_KP_JP',
+    repo: 'https://github.com/kyledobash/Movie_Library_Git_KD_KP_JP', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -50,8 +50,8 @@ export const projectsData = [
     title: 'Video Game Data',
     info: '',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://github.com/jPigg-tech/VideoGameDataProj',
+    repo: 'https://github.com/jPigg-tech/VideoGameDataProj', // if no repo, the button will not show up
   },
 ];
 
