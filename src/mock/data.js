@@ -30,8 +30,8 @@ export const projectsData = [
     id: nanoid(),
     img: 'Project1.png',
     title: 'KnowCal',
-    info: '',
-    info2: '',
+    info: 'KnowCal is a user- friendly calorie tracking RESTful API, that generates recommended calorie consumption based on user input, stores daily food diary broken down into meals and snacks, in a database, shows data visualization and analysis of calorie consumption through charts, and gives the user a better experience with the implementation of third party APIs.',
+    info2: 'Technologies: C#, ASP.Net Core/MVC, Entity Framework, JavaScript, HMTL5/CSS, Bootstrap,  SQL, Chart.js, SendGrid API, Nutritionix API ',
     url: 'https://github.com/jPigg-tech/KnowCal.git',
     repo: 'https://github.com/jPigg-tech/KnowCal.git', // if no repo, the button will not show up
   },
