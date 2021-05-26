@@ -48,7 +48,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'Project3.png',
     title: 'Video Game Data',
-    info: '(Group Project, 5 day sprint)',
+    info: '(Group Project, 5 day sprint) Uses Python Flask to mine, analyze, and visualize data regarding video games from a RESTful API with over 30,000 video games. The analysis answers various evaluation questions regarding what console system is the best to invest in based on video game data.',
     info2: 'Technologies: Python, Flask, HTML, CSS/Bootstrap, Postman, Chart.js',
     url: 'https://github.com/jPigg-tech/VideoGameDataProj',
     repo: 'https://github.com/jPigg-tech/VideoGameDataProj', // if no repo, the button will not show up
