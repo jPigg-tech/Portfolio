@@ -3,16 +3,16 @@ import { nanoid } from 'nanoid';
 // HEAD DATA
 export const headData = {
   title: 'Jeff Pigg | Developer', 
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  lang: ' ', // e.g: en, es, fr, jp
+  description: ' ', // e.g: Welcome to my website
 };
 
 // HERO DATA
 export const heroData = {
-  title: '',
+  title: ' ',
   name: 'Jeff Pigg',
   subtitle: 'Software Developer',
-  cta: '',
+  cta: ' ',
 };
 
 // ABOUT DATA
