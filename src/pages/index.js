@@ -15,7 +15,7 @@ export default () => {
         <title>{title}</title>
         <html lang={lang || 'en'} />
         <meta name="description" content={description} />
-        <meta name="image" property="og:image" content="PortfolioImage.png" />
+        <meta name="image" property="og:image" content="/src/images/PortfolioImage.png" />
       </Helmet>
       <App />
     </>
